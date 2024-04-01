@@ -252,6 +252,7 @@ Recuerda que puedes obtener el ID de tus commits con el comando **git log**.
 - **git reset —hard:** con esto restauramos el arrchivo a la instantánea que queremos retornar según el código correspondiente (git reset --hard 29a1254)
 
 Aporte creado por: Stefania Ortega
+![Untitled 1](https://github.com/Gersa28/Git_GitHub_summary/assets/91088888/8e698b46-d1a2-47cd-a4c8-e00d226052f0)
 
 ![Untitled](Git%20y%20GitHub%20a7cd841d61cc4e0bb4d3c27f90bb55c5/Untitled%201.png)
 
